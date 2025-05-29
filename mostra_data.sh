@@ -1,0 +1,1 @@
+echo "HOJE É: $(date)"
